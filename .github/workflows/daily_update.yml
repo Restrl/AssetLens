@@ -1,5 +1,6 @@
 name: Daily Fund Update
 
+
 on:
   # 每天北京时间晚上10点运行 (UTC时间 14:00)
   schedule:
